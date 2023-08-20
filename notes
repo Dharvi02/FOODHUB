@@ -1,0 +1,5 @@
+npm uninstall mongoose
+npm install mongoose@6.10.0
+
+mongoose purana dala h ek bar whn it diidnt connect
+and same jagah havent used err if else statement
